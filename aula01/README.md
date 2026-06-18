@@ -4,6 +4,8 @@ Código legado desta aula. **Funciona, mas é estruturalmente frágil** — é o
 
 ## Como rodar
 
+No terminal do **GitHub Codespaces** (tudo roda no navegador, sem instalar nada):
+
 ```bash
 cd aula01
 python emprestimos.py
